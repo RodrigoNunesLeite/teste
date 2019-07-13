@@ -1,0 +1,37 @@
+{
+ "titulo":
+  [
+   {
+     "titulo": "JSON x XML",
+     "resumo": "o duelo de dois modelos de representação de informações",
+     "ano": 2012,
+     "genero": ["aventura", "ação", "ficção"]
+    },
+   {
+     "titulo": "JSON James",
+     "resumo": "a história de uma lenda do velho oeste",
+     "ano": 2012,
+     "genero": ["western"]  ,
+    }
+  ],
+  "titulo2":
+  [
+    {
+      "titulo": "JSON x XML2",
+      "resumo": "o duelo de dois modelos de representação de informações",
+      "ano": 2012,
+      "genero": ["aventura", "ação", "ficção"]
+    },
+    {
+      "titulo": "JSON James",
+      "resumo": "a história de uma lenda do velho oeste",
+      "ano": 2012,
+      "genero": ["western"]  ,
+    }
+  ],
+ "info": [
+       {
+         "desc":"descricao"
+       }
+   ]
+}
